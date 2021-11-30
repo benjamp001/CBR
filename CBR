@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=device-width"/>
+    
+            <link rel="preconnect" href="https://static0.cbrimages.com">
+            <link rel="preconnect" href="https://static1.cbrimages.com">
+            <link rel="preconnect" href="https://static2.cbrimages.com">
+            <link rel="preconnect" href="https://static3.cbrimages.com">
+            
+
+            <link rel="preload"
+                      media="(max-width: 480px)"
+                      href="https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/11/reigen-arataka-iyami-and-marie-itami.jpg?q=50&fit=crop&w=450&h=225&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 481px) and (max-width: 767px)"
+                      href="https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/11/reigen-arataka-iyami-and-marie-itami.jpg?q=50&fit=crop&w=737&h=370&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 768px) and (max-width: 1023px)"
+                      href="https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/11/reigen-arataka-iyami-and-marie-itami.jpg?q=50&fit=crop&w=943&h=474&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 1024px)"
+                      href="https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/11/reigen-arataka-iyami-and-marie-itami.jpg?q=50&fit=crop&w=830&h=419&dpr=1.5" as="image">
+    
+                                                    <link rel="preload"
+                      media="(max-width: 480px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/X-Men-Blue-Team.jpeg?q=50&fit=crop&w=450&h=225&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 481px) and (max-width: 767px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/X-Men-Blue-Team.jpeg?q=50&fit=crop&w=737&h=370&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 768px) and (max-width: 1023px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/X-Men-Blue-Team.jpeg?q=50&fit=crop&w=943&h=474&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 1024px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/X-Men-Blue-Team.jpeg?q=50&fit=crop&w=320&h=160&dpr=1.5" as="image">
+                                                <link rel="preload"
+                      media="(max-width: 480px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Sony-MCU-SpiderVerse.jpg?q=50&fit=crop&w=450&h=225&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 481px) and (max-width: 767px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Sony-MCU-SpiderVerse.jpg?q=50&fit=crop&w=737&h=370&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 768px) and (max-width: 1023px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Sony-MCU-SpiderVerse.jpg?q=50&fit=crop&w=943&h=474&dpr=1.5" as="image"><link rel="preload"
+                      media="(min-width: 1024px)"
+                      href="https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Sony-MCU-SpiderVerse.jpg?q=50&fit=crop&w=320&h=160&dpr=1.5" as="image">
+                                                                                                            <script>
+        // GLOBAL JS VARIABLES FOR THE PAGE
+        var VALNET_GLOBAL_FBAPPID = "1754119328184357";
+        // GLOBAL JS VARIABLES FOR GOOGLE ANALYTICS
+                    var VALNET_GLOBAL_GOOGLEANALYTICSPROPERTYID = "UA-2762275-1";
+            var VALNET_GLOBAL_POSTID = "category";
+            var VALNET_GLOBAL_AUTHOR = "";
+            var VALNET_GLOBAL_CHANNEL = "";
+            var VALNET_GLOBAL_VIEW = "";
+            var VALNET_GLOBAL_EXACTVIEW = "";
+            var VALNET_GLOBAL_ISPREMIUM = "false";
+            var VALNET_GLOBAL_ENVIRONMENT = "native";
+            var VALNET_GLOBAL_POSTTYPE = "";
+            var VALNET_GLOBAL_JREDITOR = "";
+            var VALNET_GLOBAL_SREDITOR = "";
+            var VALNET_GLOBAL_NUMBERPERPAGE = "";
+            var VALNET_GLOBAL_ISENGAGEMENTTEST = "false";
+            var VALNET_GLOBAL_DETECTEDDEVICE = "desktop";
+            var VALNET_GLOBAL_IPADDRESS = "70.26.12.38";
+            var VALNET_GLOBAL_BROWSERUSERAGENT = "Mozilla\/5.0\u0020\u0028Macintosh\u003B\u0020Intel\u0020Mac\u0020OS\u0020X\u002010_15_7\u0029\u0020AppleWebKit\/537.36\u0020\u0028KHTML,\u0020like\u0020Gecko\u0029\u0020Chrome\/95.0.4638.69\u0020Safari\/537.36";
+            var VALNET_GLOBAL_LENGTH = "";
+            var VALNET_GLOBAL_DATEPUBLISHED = "";
+            var VALNET_GLOBAL_EDITOR = "";
+            var VALNET_GLOBAL_POSTPAYMENTCATEGORY = "";
+            var VALNET_GLOBAL_CATEGORY = "";
+            var VALNET_GLOBAL_TAGS = "";
+            var VALNET_GLOBAL_ISFACEBOOKBROWSER = "";
+            var VALNET_GLOBAL_ADS = "";
+            var VALNET_GLOBAL_AMPTRAFFIC = "false";
+            var VALNET_GLOBAL_TEMPLATE = "listing";
+            var VALNET_GLOBAL_TLDRPERMALINK = "";
+            var VALNET_GLOBAL_TLDRPAGE = "";
+            var VALNET_GLOBAL_TLDRTOTALNUMPAGE = "";
+            var VALNET_GLOBAL_TLDRVIEWTYPE = "";
+            var VALNET_GLOBAL_ISADBLOCK = true;
+            var VALNET_GLOBAL_NETWORKCATEGORY = "";
+            var VALNET_GLOBAL_CONTENTTYPE = "";
+            var VALNET_GLOBAL_INTENT = "";
+            </script>
+
+            
+                    
+        <link rel="stylesheet" href="/public/build/a-listing.906c26b8.css">
+
+    <!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+</script>
+<!-- End Google Analytics -->
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PWXXCF2');</script>
+<!-- End Google Tag Manager -->
+
+    <script async src="/public/build/dfp.js"></script>
+            <script async src="/public/build/valnet-header-ads.0b2cd3aa.js"></script>
+    
+    
+                
+    
+
+    	
+	    	    
+	    	        <link rel="canonical" href="https://www.cbr.com/tag/anime/" />
+	    
+	    	    	        
+	        	    
+	    <title>Anime | CBR</title>
+	    
+	    	        	        <meta name="description" content="Covering comics, movies, tv like no other in the world. CBR.com is all you need!" />
+	    	    
+	    	
+        
+        
+            <meta property="og:title" content="Anime | CBR" />
+    <meta property="og:type" content="website" />
+
+    
+
+                                                <meta property="og:url" content="https://www.cbr.com/tag/anime/" />
+                        
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:description" content="Covering comics, movies, tv like no other in the world. CBR.com is all you need!" />
+
+            <meta property="og:site_name" content="CBR" />
+    
+    
+
+
+
+
+        <meta property="fb:app_id" content="1754119328184357"/>
+
+	
+
+    <link rel="icon" sizes="48x48" href="/public/build/images/favicon-48x48.3ea6711c.png">
+    <link rel="icon" sizes="96x96" href="/public/build/images/favicon-96x96.3af6fe22.png">
+    <link rel="icon" sizes="144x144" href="/public/build/images/favicon-144x144.8efc687f.png">
+    <link rel="icon" sizes="192x192" href="/public/build/images/favicon-192x192.8178bde4.png">
+    <link rel="icon" sizes="240x240" href="/public/build/images/favicon-240x240.72ec888b.png">
+
+    <link rel="apple-touch-icon" sizes="240x240" href="/public/build/images/favicon-240x240.72ec888b.png">
+    <link rel="shortcut icon" href="/public/build/images/favicon-192x192.8178bde4.png">
+
+
+
+    
+    
+
+                            <!-- Using AdsNinja V10 -->
+            <!-- Ad Header Start -->
+            <!-- Chosen Ad Setup: Balance Category Desktop. -->
+
+
+
+
+
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://aloofvest.com/v2dnxOatg_AGtMUB5UFi1eojii-HwX9fbivQFoDcdFSkcux7zwYQvE5o",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){function t(){(t.q=t.q||[]).push(arguments)}t.v=1,o.admiral=o.admiral||t})(window);!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");;;!(function(t,n,i,e,o){function a(){for(var t=[],i=0;i<arguments.length;i++)t.push(arguments[i]);if(!t.length)return o;"ping"===t[0]?t[2]({gdprAppliesGlobally:!!n.__cmpGdprAppliesGlobally,cmpLoaded:!1,cmpStatus:"stub"}):t.length>0&&o.push(t)}function c(t){if(t&&t.data){var e,o="string"==typeof t.data&&t.data.indexOf("__tcfapiCall")>=0;(e=o?((function(t){try{return JSON.parse(t)}catch(n){}})(t.data)||{}).__tcfapiCall:(t.data||{}).__tcfapiCall)&&n[i](e.command,e.version,(function(n,i){var a={__tcfapiReturn:{returnValue:n,success:i,callId:e.callId}};t.source.postMessage(o?JSON.stringify(a):a,"*")}),e.parameter)}}!(function f(){if(!window.frames[e]){var n=t.body;if(n){var i=t.createElement("iframe");i.style.display="none",i.name=e,n.appendChild(i)}else setTimeout(f,5)}})(),o=[],a.v=1,"function"!=typeof n[i]&&(n[i]=n[i]||a,n.addEventListener?n.addEventListener("message",c,!1):n.attachEvent&&n.attachEvent("onmessage",c))})(document,window,"__tcfapi","__tcfapiLocator");;!(function(n,t,i,u,e,o,r){function a(n){if(n){var u=(n.data||{}).__uspapiCall;u&&t[i](u.command,u.version,(function(t,i){n.source.postMessage({__uspapiReturn:{returnValue:t,success:i,callId:u.callId}},"*")}))}}!(function f(){if(!window.frames[u]){var t=n.body;if(t){var i=n.createElement("iframe");i.style.display="none",i.name=u,t.appendChild(i)}else setTimeout(f,5)}})();var s={getUSPData:function(n,t){return n!==1?t&&t(null,!1):t&&t({version:null,uspString:null},!1)}};function c(n,t,i){return s[n](t,i)}c.v=1,"function"!=typeof t[i]&&(t[i]=t[i]||c,t.addEventListener?t.addEventListener("message",a,!1):t.attachEvent&&t.attachEvent("onmessage",a)),o=n.createElement(e),r=n.getElementsByTagName(e)[0],o.src="https://aloofvest.com/v2suzEQiw-F2gQgcxrZcUBlMXZ6Mi0xESutUjLa5epPDrOoilFAt-dOybm4ZFkMpxV3pSn3xi",r.parentNode.insertBefore(o,r)})(document,window,"__uspapi","__uspapiLocator","script");</script>
+
+<script async src="//js-sec.indexww.com/ht/p/184735-243394253700790.js"></script>
+
+<script>
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+</script>
+
+<script src='https://cdn.districtm.ca/receiver/ad-receiver.js' type='text/javascript' async></script>
+
+<script src="https://tagan.adlightning.com/valnet/op.js" defer></script>
+
+
+
+<script>
+
+    var googletag  = googletag || {};
+    googletag.cmd  = googletag.cmd || [];
+    var gamAdSlots = gamAdSlots || [];
+
+    (function(){
+
+        var gads   = document.createElement('script');
+        gads.async = true;
+        gads.type  = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src   = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+</script>
+
+<script>gamAdSlots.push({
+    slotReferenceVariableName: "default",
+    adUnitPath: "/39363775/CBR_Balance_Category",
+    sizeArray: [[300, 250]],
+    adElementId: "div-gpt-ad-1568906123799-001",
+    targeting: {
+        pos: ['mid5'],
+        Site: ["CBR"],
+        ContentType: [""],
+        Template: ["listing"],
+        NetworkCategory: [""],
+        SiteCategory: [""],
+        PostID: [""],
+    },
+    useAmazon: true,
+    onPageLoad: true,
+    dynamicInjectionRefresh: {"id":709,"type":"sticky","timer":9998,"pixelDistance":2000},
+    floating: {},
+    zoneName: "default",
+    width: "300px",
+    height: "250px",
+});</script><script>gamAdSlots.push({
+    slotReferenceVariableName: "second",
+    adUnitPath: "/39363775/CBR_Balance_Category",
+    sizeArray: [[300, 600]],
+    adElementId: "div-gpt-ad-1568906123799-0",
+    targeting: {
+        pos: ['mid10'],
+        Site: ["CBR"],
+        ContentType: [""],
+        Template: ["listing"],
+        NetworkCategory: [""],
+        SiteCategory: [""],
+        PostID: [""],
+    },
+    useAmazon: true,
+    onPageLoad: true,
+    dynamicInjectionRefresh: {},
+    floating: {},
+    zoneName: "second",
+    width: "300px",
+    height: "600px",
+});</script><script>gamAdSlots.push({
+    slotReferenceVariableName: "first",
+    adUnitPath: "/39363775/CBR_Balance_Category",
+    sizeArray: [[300, 250]],
+    adElementId: "div-gpt-ad-1568906123799-sb1",
+    targeting: {
+        pos: ['mid5'],
+        Site: ["CBR"],
+        ContentType: [""],
+        Template: ["listing"],
+        NetworkCategory: [""],
+        SiteCategory: [""],
+        PostID: [""],
+    },
+    useAmazon: true,
+    onPageLoad: true,
+    dynamicInjectionRefresh: {},
+    floating: {},
+    zoneName: "first",
+    width: "300px",
+    height: "250px",
+});</script><script>
+function adsNinjaDefineSlots(isPageLoad = true, adElementId = null, pageNumber = null){
